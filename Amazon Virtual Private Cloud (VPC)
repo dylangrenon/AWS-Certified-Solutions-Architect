@@ -13,6 +13,17 @@
     - VGW is deployed on the AWS site
     - Remote offices connect ot the VGW in a hub-and-spoke model
     - Each office must use a unique Border Gateway Protocol (BGP) Autonomous System Number (ASN)
+    - Network traffic may go between VPC and remote office, as well as remote office to remote office
+    - Overall just connecting multiple cistomer gateways to assingle virtual private gateway
   AWS Direct Connect (DX)
+    - Different from AWS Regions
+    - A DX port (1000-Base-LX or 10GBASE-LR) must be allocated in a DX location
+    - A cross-Connect between the AWS DX router and the customer/partner DX router
+    - Customer has a router on site in their data center physically connected to AWS Direct Connect Location 
+    - DX is a physical fiber connection to AWS running at 1Gbps or 10Gbps
+    
+    
+  AWS Direct Conect Gateway
   
+  AWS Transit Gateway
   
