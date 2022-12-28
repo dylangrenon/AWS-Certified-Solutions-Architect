@@ -5,6 +5,10 @@
 12/28/22
   AWS Client VPN
   AWS Site-to-site VPN
+    - AWS VPN is a managed IPSec VPN
+    - Virtual Private Gateway (VGW) is deployed on the AWS site, Customer gateway is deployed on the customer site
+      - Can now establish an encrypted VPN connection
+      - Supports static routes or BGP peering/routing
   AWS VPN Cloudhub
   AWS Direct Connect (DX)
   
