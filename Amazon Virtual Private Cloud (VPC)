@@ -10,6 +10,9 @@
       - Can now establish an encrypted VPN connection
       - Supports static routes or BGP peering/routing
   AWS VPN Cloudhub
+    - VGW is deployed on the AWS site
+    - Remote offices connect ot the VGW in a hub-and-spoke model
+    - Each office must use a unique Border Gateway Protocol (BGP) Autonomous System Number (ASN)
   AWS Direct Connect (DX)
   
   
