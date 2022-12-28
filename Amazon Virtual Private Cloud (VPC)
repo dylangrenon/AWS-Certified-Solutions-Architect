@@ -21,7 +21,11 @@
     - A cross-Connect between the AWS DX router and the customer/partner DX router
     - Customer has a router on site in their data center physically connected to AWS Direct Connect Location 
     - DX is a physical fiber connection to AWS running at 1Gbps or 10Gbps
-    
+    - Private Virtual Interface (VIF)
+      - a VIF uses (802.1Q VLAN) and a BGP session
+    - A Private VIF connects to a single VPC in the same AWS Region using a VGW
+    - A public VIF allows you to connect to the AWS services that are in the public space in AWS region
+      - Cant connect to the internet via Public VIF
     
   AWS Direct Conect Gateway
   
