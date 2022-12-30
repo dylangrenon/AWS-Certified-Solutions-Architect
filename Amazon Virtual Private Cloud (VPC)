@@ -26,8 +26,8 @@
     - A Private VIF connects to a single VPC in the same AWS Region using a VGW
     - A public VIF allows you to connect to the AWS services that are in the public space in AWS region
       - Cant connect to the internet via Public VIF
-    
-  AWS Direct Conect Gateway
+ 12/30/22
+   AWS Direct Conect Gateway
   
   AWS Transit Gateway
   
