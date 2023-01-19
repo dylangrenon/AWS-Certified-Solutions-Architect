@@ -3,10 +3,17 @@
   Amazon S3 Bucket
   IAM Policies, Bucket Policies and ACLs
   
- 1/2/23 
+1/2/23 
   Access Control Lists (ACLs)
-  S3 Versioning, Replication and Lifecycle Rules
   Bucket and User Policy Practice
+  S3 Versioning, Replication and Lifecycle Rules
 
-
+1/18/23
+  Lifecycle Rules
+  MFA with Amazon S3
+  S3 Encription
   
+1/19/23
+  Enforce Encryption
+  S3 Event Notifications
+  Presigned URLs
