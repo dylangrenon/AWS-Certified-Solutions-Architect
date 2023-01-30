@@ -10,4 +10,11 @@
   Using Route 53 Routing Policies
   Amazon Route 53 Resolver
   Amazon CloudFront Origins and Distributions
+  Amazon CloudFront Caching and behaviors
+  CloudFront signed urls and OAI
+  Chache and behavior settings
+  CloudFront SSL/TLS and SNI
+  Lambda@Edge
+  AWS global accelerator
+  Create a global accelerator
   
