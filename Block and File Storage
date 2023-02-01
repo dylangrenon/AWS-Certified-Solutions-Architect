@@ -3,3 +3,18 @@
   Amazon EBS deployment and volume types
   Amazon EBS copying, sharing and encryption
   Amazon EBS snapshots and DLM
+
+1/31/23
+  EC2 instace store volumes
+  creating and attaching EBS volumes
+  Using Amazon Machine Images (AMIs)
+  EC2 Image Builder
+  Migrate EBS volume between AZs
+  Working with EBS snapshots and DLM
+  Using RAID with EBS
+  Amazon Elastic File System
+  Create EFS Filesystem
+  Amazon FSx
+  AWS Storage Gateway
+  AWS Backup
+ 
