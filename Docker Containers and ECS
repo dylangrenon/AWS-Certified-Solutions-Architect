@@ -6,3 +6,8 @@
   Amazon ECS amd IAM roles
   Scaling Amazon ECS
   Amazon ECS with ALB
+  Deploy ECS Cluster (EC2 launch type)
+  Use ALB with Fargate cluster
+  Amazon Elastic Kubernetes Service (EKS)
+  Amazon Elastic Container Registry (ECR)
+  AWS App Runner
