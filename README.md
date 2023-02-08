@@ -9,20 +9,20 @@ Author:
   
 After completing these two certifications, I will further my learning in:
   
-  Linux - LPI Linux Essentials certification
+ Linux - LPI Linux Essentials certification
   - create and restore compressed backups and archives.
   - create and run scripts
   - system security
   - users/groups
   - file permissions for public and private directories
   
-    Python
+ Python
   - Data Scrtuctures and Algorithms
   - OOP
   - Scripting and Automation
   - Docker
   
-  Java
+ Java
   - Microservices
   - REST API
   - Spring Boot
