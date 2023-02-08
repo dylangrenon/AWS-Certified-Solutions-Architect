@@ -9,3 +9,12 @@
   Amazon SNS
   Simple Event-Driven App
   AWS Step Functions
+
+2/8/23
+  Create a State Machine
+  Amazon EventBridge
+  Create Event Bus and Rule
+  Amazon API Gateway
+  Simple REST API
+  Web App with HTTP API
+  The Serverless Apllication Repository
