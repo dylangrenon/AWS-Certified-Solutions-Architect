@@ -5,3 +5,17 @@
   Create Amazon RDS Database
   Read Replicas and Multi-AZ
   
+2/10/23
+  Amazon RDS Security
+  Create Encrypted Copy of RDS Database
+  Amazon Aurora
+  Amazon Aurora Deplyment Options
+  Amazon RDS Proxy
+  Amazon RDS Anti-Patterns and Alternatives
+  Amazon ElastiCache
+  Scaling ElastiCache
+  Create ElastiCache Cluster
+  Amazon Dynamo DB
+  Create DynamoDB Table
+  
+  
