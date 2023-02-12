@@ -18,4 +18,8 @@
   Amazon Dynamo DB
   Create DynamoDB Table
   
-  
+2/11/23
+  DynamoDB Streams
+  DynamoDB Accelerator (DAX)
+  DynamoDB Global Tables
+  Create DynamoDB Global Table
